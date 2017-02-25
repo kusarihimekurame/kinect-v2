@@ -1,0 +1,17 @@
+﻿  Kinect2CV.cpp
+C:\Users\qian\SkyDrive\ドキュメント\卒業研究\Win32Project1\packages\opencv3.1.1.0\build\native\include\opencv2/core/mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\qian\SkyDrive\ドキュメント\卒業研究\Win32Project1\packages\opencv3.1.1.0\build\native\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\qian\SkyDrive\ドキュメント\卒業研究\Win32Project1\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\qian\SkyDrive\ドキュメント\卒業研究\Win32Project1\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+Kinect2CV.cpp(140): warning C4305: 'return': 'int' から 'bool' へ切り詰めます。
+Kinect2CV.cpp(206): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+Kinect2CV.cpp(207): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+Kinect2CV.cpp(245): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+Kinect2CV.cpp(263): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  main.cpp
+C:\Users\qian\SkyDrive\ドキュメント\卒業研究\Win32Project1\packages\opencv3.1.1.0\build\native\include\opencv2/core/mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\qian\SkyDrive\ドキュメント\卒業研究\Win32Project1\packages\opencv3.1.1.0\build\native\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\qian\SkyDrive\ドキュメント\卒業研究\Win32Project1\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\qian\SkyDrive\ドキュメント\卒業研究\Win32Project1\packages\opencv3.1.1.0\build\native\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+Kinect2CV.obj : error LNK2001: 外部シンボル "GetDefaultKinectSensor" は未解決です。
+C:\Users\qian\SkyDrive\ドキュメント\卒業研究\Win32Project1\x64\Release\ConsoleApplication2.exe : fatal error LNK1120: 1 件の未解決の外部参照
